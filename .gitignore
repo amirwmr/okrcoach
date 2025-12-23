@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment / virtualenv
+.env
+.venv/
+env/
+venv/
+.python-version
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage
+.coverage*
+.pytest_cache/
+cover/
+htmlcov/
+
+# Django stuff
+*.log
+staticfiles/
+media/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.dockerignore
+.env.dev
+.env.local
+.env.production
+
+# Local tooling
+pip-log.txt
+pip-delete-this-directory.txt
+
